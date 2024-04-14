@@ -1,5 +1,5 @@
-//Dominik Olejarz
-//329405    
+// Dominik Olejarz
+// 329405
 
 #ifndef ICMP_SEND_H
 #define ICMP_SEND_H
